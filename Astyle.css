@@ -1,0 +1,137 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+html{
+}
+body{
+	background-color: white;
+	padding: 10px;
+}
+
+.row{
+	width: 98%;
+}
+
+/*section{
+	position: absolute;
+	padding:10px;
+	border: 1px solid grey;
+	margin: 10px;
+	background-color: blue;
+}*/
+
+
+a{
+	text-decoration: none;
+	color: black;
+}
+h1{
+	clear: both;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 80px;
+	background-color: #c2c2a3;
+	height: 150px;
+	padding: 50px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+p{
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	font-family: cursive;
+	background-color: #999966;
+	border: 1px solid;
+	border-color: #999966;
+	padding: 20px;
+	margin: 10px;
+	clear: both;
+}
+.menu{
+	display: block;
+	float:left;
+	padding: 10px, 10px, 10px, 10px;
+	border: 1px solid black;
+	margin: 2px;
+	width: 180px;
+	height: 30px;
+	background-color: grey;
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: center;
+}
+
+.box{
+	color: black;
+	font-family: cursive;
+	background-color: #999966;
+	border: 1px solid;
+	border-color: #999966;
+	padding: 20px;
+	margin: 10px;
+	display: block;
+	height: 300px;
+	width: 500px;
+	text-align: center;
+	float: left;
+}
+
+.videobox{
+	color: black;
+	font-family: cursive;
+	background-color: #999966;
+	border: 1px solid;
+	border-color: #999966;
+	padding: 20px;
+	margin: 10px;
+	display: block;
+	height: 500px;
+	width: 700px;
+	text-align: center;
+	float: left;
+}
+.videotext{
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	font-family: cursive;
+}
+.facimage{
+	background-color: #999966;
+	border: 1px solid;
+	border-color: #999966;
+	padding: 20px;
+	margin: 10px;
+	display: block;
+	height: 300px;
+	width: 500px;
+	text-align: center;
+	float: left;
+}
+
+footer{
+    background-color: grey;
+    border: 1px solid black;
+    margin:10px;
+    padding:20px;
+    text-align: center;
+    clear:both;
+}
+
+h3{
+	clear: both;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 80px;
+	background-color: #c2c2a3;
+	height: 150px;
+	width: 200px;
+	padding: 50px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
